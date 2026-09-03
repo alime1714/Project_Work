@@ -7,6 +7,9 @@
 - **Verification**: Verified via host SSH session (`ssh ali@192.168.1.16`).
 
 ## Project 2: Docker Web Server
+
+![Deafult Nginx Server Output](C:\Users\SA\Pictures\Screenshots\Screenshot 2026-09-03 143021)
+
 - **Setup**: Installed Docker & `docker-compose-v2`, added user to `docker` group.
 - **Deployment**: Deployed Nginx container (`docker run -d -p 8080:80 --name my-webserver nginx`).
 - **Verification**: Accessible via browser at `http://192.168.1.16:8080`.

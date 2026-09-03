@@ -8,7 +8,7 @@
 
 ## Project 2: Docker Web Server
 
-![Default Nginx Server Output](Screenshot 2026-09-03 143021.png)
+![Default Nginx Server Output](Screenshot 2026-09-03 143021.png>)
 
 - **Setup**: Installed Docker & `docker-compose-v2`, added user to `docker` group.
 - **Deployment**: Deployed Nginx container (`docker run -d -p 8080:80 --name my-webserver nginx`).

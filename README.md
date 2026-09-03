@@ -15,6 +15,9 @@
 - **Verification**: Accessible via browser at `http://192.168.1.16:8080`.
 
 ## Project 3: GitHub Documentation & Portfolio Setup
+
+![My First Server Output](<Screenshot 2026-09-03 142627.png>)
+
 - Configured Git on Ubuntu VM and linked to remote GitHub repository.
 - Set up authentication using a GitHub Personal Access Token (PAT).
 - Documented project architecture and commands directly in Markdown format.
